@@ -6,8 +6,8 @@
 
 Примеры использования:
 
-isHappyTicket('385916');    // true
-isHappyTicket('231002');   // false
-isHappyTicket('1222');    // false
-isHappyTicket('054702'); // true
-isHappyTicket('00');    // true
+isHappyTicket('385916');    // true  
+isHappyTicket('231002');   // false  
+isHappyTicket('1222');    // false  
+isHappyTicket('054702'); // true  
+isHappyTicket('00');    // true  
